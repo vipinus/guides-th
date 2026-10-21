@@ -26,4 +26,4 @@
 บอกฝ่ายซัพพอร์ตสามอย่าง: ชื่อและเวอร์ชันของไคลเอนต์ ภูมิภาค และข้อความผิดพลาดแบบตรงตัวหรือภาพหน้าจอ
 
 ---
-รวบรวมโดยทีม [LeoTun](https://www.leotun.com/th?utm_source=github&utm_content=troubleshooting-04) · มีคำถาม? ดูที่[หน้าติดต่อ](https://www.leotun.com/th/contact?utm_source=github&utm_content=troubleshooting-04) (กลุ่ม อีเมล และฝ่ายซัพพอร์ตอยู่ในหน้านั้นครบ) · สมัครแล้วทดลองใช้ฟรี 24 ชั่วโมง ชวนเพื่อนที่ชำระเงินหนึ่งคน ได้แพ็กเกจส่วนตัวเพิ่มคนละ 20 วัน ใช้ได้ระยะยาว
+รวบรวมโดยทีม [LeoTun](https://www.leotun.com/th?utm_source=github&utm_content=troubleshooting-04) · มีคำถาม? ดูที่[หน้าติดต่อ](https://www.leotun.com/th/contact?utm_source=github&utm_content=troubleshooting-04) (กลุ่ม อีเมล และฝ่ายซัพพอร์ตอยู่ในหน้านั้นครบ) · สมัครแล้วทดลองใช้ฟรี 4 ชั่วโมง ชวนเพื่อนที่ชำระเงินหนึ่งคน ได้แพ็กเกจส่วนตัวเพิ่มคนละ 20 วัน ใช้ได้ระยะยาว

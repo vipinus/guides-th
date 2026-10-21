@@ -103,4 +103,4 @@ echo /usr/share/hiddify/lib | sudo tee /etc/ld.so.conf.d/hiddify.conf && sudo ld
 - [iOS ไม่ยอมให้ติดตั้งแอป ทำอย่างไร](https://www.leotun.com/th/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-รวบรวมโดยทีม [LeoTun](https://www.leotun.com/th?utm_source=github&utm_content=client-09) · มีคำถาม? ดูที่[หน้าติดต่อ](https://www.leotun.com/th/contact?utm_source=github&utm_content=client-09) (กลุ่ม อีเมล และฝ่ายซัพพอร์ตอยู่ในหน้านั้นครบ) · สมัครแล้วทดลองใช้ฟรี 24 ชั่วโมง ชวนเพื่อนที่ชำระเงินหนึ่งคน ได้แพ็กเกจส่วนตัวเพิ่มคนละ 20 วัน ใช้ได้ระยะยาว
+รวบรวมโดยทีม [LeoTun](https://www.leotun.com/th?utm_source=github&utm_content=client-09) · มีคำถาม? ดูที่[หน้าติดต่อ](https://www.leotun.com/th/contact?utm_source=github&utm_content=client-09) (กลุ่ม อีเมล และฝ่ายซัพพอร์ตอยู่ในหน้านั้นครบ) · สมัครแล้วทดลองใช้ฟรี 4 ชั่วโมง ชวนเพื่อนที่ชำระเงินหนึ่งคน ได้แพ็กเกจส่วนตัวเพิ่มคนละ 20 วัน ใช้ได้ระยะยาว
