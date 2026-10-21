@@ -49,4 +49,4 @@
 บทความนี้ฉบับบนเว็บไซต์ (มีภาษาไทยด้วย): https://www.leotun.com/th/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
 
 ---
-รวบรวมโดยทีม [LeoTun](https://www.leotun.com/th?utm_source=github&utm_content=overseas-access-04) · มีคำถาม? ดูที่[หน้าติดต่อ](https://www.leotun.com/th/contact?utm_source=github&utm_content=overseas-access-04) (กลุ่ม อีเมล และฝ่ายซัพพอร์ตอยู่ในหน้านั้นครบ) · สมัครแล้วทดลองใช้ฟรี 4 ชั่วโมง ชวนเพื่อนที่ชำระเงินหนึ่งคน ได้แพ็กเกจส่วนตัวเพิ่มคนละ 20 วัน ไม่มีวันหมดเขต
+รวบรวมโดยทีม [LeoTun](https://www.leotun.com/th?utm_source=github&utm_content=overseas-access-04) · มีคำถาม? ดูที่[หน้าติดต่อ](https://www.leotun.com/th/contact?utm_source=github&utm_content=overseas-access-04) (กลุ่ม อีเมล และฝ่ายซัพพอร์ตอยู่ในหน้านั้นครบ) · สมัครแล้วทดลองใช้ฟรี 4 ชั่วโมง ชวนเพื่อนที่ชำระเงินหนึ่งคน ได้คนละ 15 เครดิต (ราว 15 วันของแพ็กเกจส่วนตัว) ไม่มีวันหมดเขต
